@@ -1,7 +1,8 @@
 # AI-POWERED SMARTHYDRATION TRACKER USING IOT AND TINYML
 Designed and developed a cloud-based intelligent hydration system that detects drinking events using sensor fusion and analyzes user behavior with on-device TinyML. Enabled real-time tracking, cloud synchronization, and proactive alerts to help prevent dehydration and improve hydration habits.
 
-<img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/3755d5a3-7aeb-4b47-b8d4-4e5d662dd238" />
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/3755d5a3-7aeb-4b47-b8d4-4e5d662dd238" />
+
 
 <img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/38622222-235b-4e35-82bf-254451cb1565" />
 
