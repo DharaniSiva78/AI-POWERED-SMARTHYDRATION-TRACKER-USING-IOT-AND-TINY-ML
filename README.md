@@ -8,7 +8,7 @@ Designed and developed a cloud-based intelligent hydration system that detects d
 
 <img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/288fe48a-a18a-4187-9515-6888b63f4eab" />
 
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/17306415-5c48-4b63-9cb6-fd38d29c2f4e" />
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/17306415-5c48-4b63-9cb6-fd38d29c2f4e" />
 
 <img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/47a92add-cd12-42b5-a15c-663a84efb105" />
 
