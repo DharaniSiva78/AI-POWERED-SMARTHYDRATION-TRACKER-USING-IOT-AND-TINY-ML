@@ -16,22 +16,22 @@ Designed and developed a cloud-based intelligent hydration system that detects d
 
 
 # Features
-  Real-time water intake monitoring
-  Accurate drinking event detection using sensor fusion
-  TinyML-based predictive hydration analysis
-  Intelligent alerts to prevent dehydration
-  Cloud-based data synchronization and storage
-  Web dashboard for hydration tracking
-  Low-power IoT-based embedded system
+      Real-time water intake monitoring
+      Accurate drinking event detection using sensor fusion
+      TinyML-based predictive hydration analysis
+      Intelligent alerts to prevent dehydration
+      Cloud-based data synchronization and storage
+      Web dashboard for hydration tracking
+      Low-power IoT-based embedded system
 
   # Tech Stack
-  Hardware
+  # Hardware
     ESP32 Microcontroller
     Load Cell Sensor + HX711 Amplifier
     Tilt Sensor
     Temperature Sensor (Optional)
     Li-ion Battery Module
-  Software & Tools
+  # Software & Tools
     Arduino IDE
     TinyML / TensorFlow Lite
     Firebase / AWS IoT
