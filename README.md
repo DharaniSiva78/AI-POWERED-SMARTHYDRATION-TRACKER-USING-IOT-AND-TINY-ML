@@ -4,12 +4,6 @@
 
 **A cloud-connected, on-device-intelligent smart bottle system that detects drinking events using sensor fusion and helps prevent dehydration.**
 
-![ESP32](https://img.shields.io/badge/MCU-ESP32-red?logo=espressif)
-![TinyML](https://img.shields.io/badge/ML-TinyML%20%2F%20TFLite-orange?logo=tensorflow)
-![IoT](https://img.shields.io/badge/Protocol-MQTT%20%2F%20HTTP-blue)
-![Cloud](https://img.shields.io/badge/Cloud-Firebase%20%2F%20AWS%20IoT-yellow?logo=firebase)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/IDE-Arduino-00979D?logo=arduino&logoColor=white)
 
 </div>
 
