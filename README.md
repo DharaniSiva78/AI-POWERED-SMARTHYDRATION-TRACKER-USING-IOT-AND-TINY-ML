@@ -344,19 +344,18 @@ Select your ESP32 board and port, upload the sketch, then open the Serial Monito
 
 ## 🖼️ Screenshots
 
-> Add your project images to an `images/` folder and reference them like this:
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/3755d5a3-7aeb-4b47-b8d4-4e5d662dd238" />
 
-```markdown
-![Hardware Setup](images/hardware.png)
-![Web Dashboard](images/dashboard.png)
-![Output](images/output.png)
-```
 
-| Hardware Setup | Dashboard | Alerts |
-|:---:|:---:|:---:|
-| *(add image)* | *(add image)* | *(add image)* |
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/38622222-235b-4e35-82bf-254451cb1565" />
 
----
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/288fe48a-a18a-4187-9515-6888b63f4eab" />
+
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/17306415-5c48-4b63-9cb6-fd38d29c2f4e" />
+
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/47a92add-cd12-42b5-a15c-663a84efb105" />
+
+<img width="1050" height="500" alt="image" src="https://github.com/user-attachments/assets/83d0eb97-dfda-4c27-a332-018fbab6f9b6" />
 
 ## 🔮 Future Enhancements
 
